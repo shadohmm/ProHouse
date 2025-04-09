@@ -1,0 +1,20 @@
+/* Price Styling */
+.price {
+    font-size: 1.5rem; /* Larger font size to make it prominent */
+    font-weight: bold; /* Make the price bold */
+    color: #ff5733; /* Use a vibrant color for the price (orange-red for attention) */
+    background-color: #fff3cd; /* Light yellow background to highlight the price */
+    padding: 8px 16px; /* Add some padding around the price for better visibility */
+    border-radius: 8px; /* Rounded corners for a modern look */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+  }
+  
+  /* Hover Effect */
+  .price:hover {
+    color: white; /* Change text color to white when hovered */
+    background-color: #ff5733; /* Change the background to a solid red-orange */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Larger shadow on hover for emphasis */
+    transform: scale(1.05); /* Slightly scale up the price when hovered */
+  }
+  

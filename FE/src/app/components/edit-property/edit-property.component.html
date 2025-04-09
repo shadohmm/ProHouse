@@ -1,0 +1,19 @@
+<div *ngIf="visible" class="fixed inset-0 z-50 bg-black/50 flex items-center justify-center">
+    <div class="bg-white p-6 rounded-xl w-[90%] max-w-lg text-black">
+      <h2 class="text-xl font-semibold mb-4">Edit Property</h2>
+  
+      <div class="space-y-4">
+        <input type="text" [(ngModel)]="editedProperty.property_name" placeholder="Property Name" class="w-full p-2 border rounded" />
+        <input type="text" [(ngModel)]="editedProperty.property_description" placeholder="Description" class="w-full p-2 border rounded" />
+        <input type="number" [(ngModel)]="editedProperty.property_price" placeholder="Price" class="w-full p-2 border rounded" />
+        <input type="text" [(ngModel)]="editedProperty.property_image" placeholder="Image URL" class="w-full p-2 border rounded" />
+        <input type="text" [(ngModel)]="editedProperty.city" placeholder="City" class="w-full p-2 border rounded" />
+      </div>
+  
+      <div class="flex justify-end gap-3 mt-6">
+        <button (click)="onClose()" class="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400">Cancel</button>
+        <button (click)="onSave()" class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Save</button>
+      </div>
+    </div>
+  </div>
+  
