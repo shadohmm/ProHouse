@@ -1,0 +1,11 @@
+{
+    "type": "mariadb",
+    "host": "localhost",
+    "port": 3307,
+    "username": "rajesh",  
+    "password": "Rajesh@1234", 
+    "database": "localdb",
+    "entities": ["src/entity/**/*.js"],
+    "synchronize": true
+  }
+  

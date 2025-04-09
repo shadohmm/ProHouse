@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "property_name": "Hevens Cottage",
+    "property_description": "Peaceful 2BHK cottage surrounded by greenery.",
+    "property_price": 80,
+    "property_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0-sliHHq4F_XV00jsdkaf5dSZUgxMAMkTw&s",
+    "city": "Ooty"
+  },
+  {
+    "id": 2,
+    "property_name": "Skyline Apartments ",
+    "property_description": "Modern high-rise apartment with stunning city views.",
+    "property_price": 950,
+    "property_image": "https://images.pexels.com/photos/164558/pexels-photo-164558.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "city": "Mumbai"
+  },
+  {
+    "id": 3,
+    "property_name": "City Center Office",
+    "property_description": "Prime office space located in the heart of the city.",
+    "property_price": 220,
+    "property_image": "https://www.allplan.com/fileadmin/_processed_/a/1/csm_iStock-1181593567_NEU-1_3aeee8b4a9.jpg",
+    "city": "Bangalore"
+  },
+  {
+    "id": 4,
+    "property_name": "Riverside Home",
+    "property_description": "3BHK home with riverfront access and scenic views.",
+    "property_price": 120.32,
+    "property_image": "https://thumbs.dreamstime.com/b/modern-house-interior-exterior-design-46517595.jpg",
+    "city": "Kochi"
+  },
+  {
+    "id": 5,
+    "property_name": "Hilltop Mansion",
+    "property_description": "Grand mansion on a hill with panoramic views.",
+    "property_price": 350.45,
+    "property_image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?cs=srgb&dl=pexels-binyaminmellish-106399.jpg&fm=jpg",
+    "city": "Shimla"
+  },
+  {
+    "id": 6,
+    "property_name": "Hilltop Mansion",
+    "property_description": "Grand mansion on a hill with panoramic views.",
+    "property_price": 399.43,
+    "property_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnepNcuLdcuhFjocdc7IQMLcw6pFrhCs5Myxz45P0Hi3hZq4guOgxw2Ctl2ERVz3V7Hc&usqp=CAU",
+    "city": "Shimla"
+  },
+  {
+    "id": 7,
+    "property_name": "NonHilltop Mansion",
+    "property_description": "Grand mansion on a hill with panoramic views.",
+    "property_price": 900,
+    "property_image": "https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg",
+    "city": "Shimla"
+  },
+  {
+    "id": 8,
+    "property_name": "Drakula Mansion",
+    "property_description": "Grand mansion on a hill with panoramic views.",
+    "property_price": 300.47,
+    "property_image": "https://thumbs.dreamstime.com/b/modern-house-interior-exterior-design-46517595.jpg",
+    "city": "Shimla"
+  }
+]
